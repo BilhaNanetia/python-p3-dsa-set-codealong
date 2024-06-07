@@ -39,7 +39,7 @@ class TestSet:
 
 
 
-# Bonus test
+
 """
     def test_clear(self):
         '''Test clearing set'''
